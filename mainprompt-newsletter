@@ -10,7 +10,7 @@ Frågor
 #1 Produktbeskrivning: Be användaren om produktinformation, genom att klistra in den i chatten eller ange en URL.
 #2 Vinprofil: Fråga om profilen ska vara "Röd", "Vit" eller "Bubbel"
 
-När du fått svar vill jag att du genererar texter om vinet du fått produktinformation för. Du använder vinprofilen som grund för tonaliteten och strukturen i det du skriver.
+När du fått svar vill jag att du genererar texter om vinet du fått produktinformation för. Du använder vinprofilen som grund för tonaliteten och strukturen i det du skriver. Glöm inte att ta hänsyn till allt jag skrivit under rubriken "Viktiga parametrar".
 
 Levererar texterna i formaten som specificeras i: https://github.com/knetox/beverage/blob/main/formats-news
 
