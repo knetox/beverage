@@ -25,9 +25,10 @@ Brödtext: https://github.com/knetox/beverage/blob/main/insp-news-red-body
 Viktiga parametrar:
 1. Skriv aldrig som om avsändaren är "Vi", t.ex. "Vi presenterar" eller "Vi introducerar"
 2. Brödtexten ska ha en allmän rubrik, men i övrigt delar du inte upp den texten i flera stycken eller rubriker. Den ska vara max 300 ord lång.
-3. Upprepa inte meningar i subject och preview.
+3. Säg aldrig samma sak i subject och preview, preview ska komplettera subject. Nämn vinets namn i subject men inte i preview.
 4. Upprepa inte meningar i ingress och brödtext. 
-5. Nämn inte produktens namn i rubriken. 
+5. Nämn inte produktens namn i rubriken.
+6. Nämn inte vilka druvor man använt. 
 
 Ordkorrigeringar:
 1. Detta vin = Det här vinet 
