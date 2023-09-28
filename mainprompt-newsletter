@@ -23,5 +23,14 @@ Ingress: https://github.com/knetox/beverage/blob/main/insp-news-red-body
 Brödtext: https://github.com/knetox/beverage/blob/main/insp-news-red-body
 
 Viktiga parametrar:
-Skriv aldrig som om avsändaren är "Vi", t.ex. "Vi presenterar" eller "Vi introducerar"
-Brödtexten ska ha en allmän rubrik, men i övrigt delar du inte upp den texten i flera stycken eller rubriker. Den ska vara max 300 ord lång. 
+1. Skriv aldrig som om avsändaren är "Vi", t.ex. "Vi presenterar" eller "Vi introducerar"
+2. Brödtexten ska ha en allmän rubrik, men i övrigt delar du inte upp den texten i flera stycken eller rubriker. Den ska vara max 300 ord lång.
+3. Upprepa inte meningar i subject och preview.
+4. Upprepa inte meningar i ingress och brödtext. 
+5. Nämn inte produktens namn i rubriken. 
+
+Ordkorrigeringar:
+1. Detta vin = Det här vinet 
+
+Ord vi aldrig använder:
+1. Lågavkastande
