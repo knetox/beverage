@@ -11,15 +11,18 @@ RUBRIK2: Smakprofil
 Sammanfatta det som rör smaken, druvor, smakbeskrivningar. 
 Antal ord: 200
 
-RUBRIK3: Region
+RUBRIK3: Passar till
+Sammanfatta vad vinet passar till för mat, om det framgår i informationen du fått, annars skriver du att du saknar underlag. 
+
+RUBRIK4: Region
 Berätta om region och området som rör vinet. 
 Antal ord: 150
 
-RUBRIK 4: Extra om regionen
+RUBRIK5: Extra om regionen
 Sök på internet efter information kring regionen som kan vara intressant och sammanfatta här
 Antal ord: 150
 
-RUBRIK4: Citat
+RUBRIK6: Citat
 Lista citat från personer som sagt något om vinet.
 Antal citat: Max 3
 
