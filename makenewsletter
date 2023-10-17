@@ -9,9 +9,9 @@ Ingress (100 ord)
 Brödtext (Max 300 ord)
 
 Fokus:
-Om du fick fokus "Region" ska du vinkla subject och rubrik att handla mer om region.
+Om du fick fokus "Region" ska du vinkla subject och rubrik att handla mer om region. 
 Om du fick fokus "Smak" ska du vinkla subject och rubrik att handla mer om smaken.
-Om du fick fokus "Prissänkt"  ska du vinkla subject och rubrik att handla mer om prissänkningen.
+Om du fick fokus "Prissänkt"  ska du inkludera information kring att vinet är prissänkt i preview texten, men enbart i previewtexten.
 
 Vinprofil:
 Om du fick vinprofil "Röd", hämta inspiration till tonaliteten på dessa länkar:
@@ -21,4 +21,3 @@ Preview: https://github.com/knetox/beverage/blob/main/insp-news-red-prew
 Rubrik: https://github.com/knetox/beverage/blob/main/insp-news-red-body
 Ingress: https://github.com/knetox/beverage/blob/main/insp-news-red-body
 Brödtext: https://github.com/knetox/beverage/blob/main/insp-news-red-body
-
