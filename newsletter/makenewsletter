@@ -1,0 +1,13 @@
+You will write newsletter texts for a wine. You will first read the main description of the wine, and then go on to create suggested text for each part of the newsletter as specified below. You will visit every link supplied by me, to find inspiration for each part of the newsletter, with tone of voice, language etc.  
+
+I am prompting you in english but i want your output to be in swedish. 
+
+1. Read the main description of wine: [LINK]
+2. Read inspiration for headlines: [LINK]
+3. Print 3 suggested newsletter headlines using the main description of the wine. Max 7 words in each.
+4. Read inspiration for preambles: [LINK]
+5. Print 3 suggested newsletter preambles using the main description of the wine. Max 100 words in each.
+6. Read inspiration for body: [LINK]
+7. Print 3 suggested newsletter bodys using the main description of the wine. Max 300 words in each.
+
+

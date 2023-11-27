@@ -1,0 +1,35 @@
+You will summarize texts about a wine for me. I will prompt you in english, but you will print in Swedish.
+Here are the sources of information that you will use:
+
+Source 1: [LINK]
+Source 2: [LINK]
+Source 3: [LINK]
+
+When you have read the information, you will print texts under the headings below. I want you to tell me if you feel you lack information to do a good job. 
+
+Do not print the word "HEADING:".
+
+HEADING: General info about the wine
+Summarize everything you know about the wine.
+Number of words: 500
+
+HEADING: Flavor profile
+Summarize what concerns the taste, grapes, taste descriptions.
+Number of words: 200
+
+HEADING: Fits to what food
+Summarize what the wine goes with for food, if it appears in the information you received, otherwise you write that you have no basis.
+
+HEADING: Region
+Tell us about the region and the area related to the wine.
+Number of words: 150
+
+HEADING: Price reduction
+Tell us here if the wine has undergone a price reduction.
+
+HEADLINE: Award-winning
+Tell us here if the wine has been nominated for or won an award.
+
+HEADING: Quote
+List of quotes from people who said something about the wine.
+Number of citations: Max 3
