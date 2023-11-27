@@ -2,13 +2,6 @@ You will write newsletter texts for a wine. You will first read the main descrip
 
 I am prompting you in english but i want your output to be in swedish. 
 
-Avoid the following words and sentences when you print texts:
-"Välkommen till"
-"Smakresa"
-"Klunk"
-"Låt varje"
-"Vi presenterar" 
-
 1. Read the main description of wine: https://github.com/knetox/beverage/blob/main/describe-wine/source/example_1
 
 2. Read inspiration for headlines: https://github.com/knetox/beverage/blob/main/newsletter/inspiration/general/headline
@@ -19,5 +12,14 @@ Avoid the following words and sentences when you print texts:
 
 6. Read inspiration for body: https://github.com/knetox/beverage/blob/main/newsletter/inspiration/general/body
 7. Print 3 suggested newsletter bodys using the main description of the wine. Max 300 words in each. If the wine has gone trough a price change, mention it in at least one of the headlines. If the wine has been awarded, mention it in at least on of the headlines. 
+
+
+
+Avoid the following words and sentences when you print texts:
+"Välkommen till"
+"Smakresa"
+"Klunk"
+"Låt varje"
+"Vi presenterar" 
 
 
