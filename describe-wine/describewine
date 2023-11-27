@@ -1,9 +1,7 @@
 You will summarize texts about a wine for me. I will prompt you in english, but you will print in Swedish.
 Here are the sources of information that you will use:
 
-Source 1: [LINK]
-Source 2: [LINK]
-Source 3: [LINK]
+Source 1: https://github.com/knetox/beverage/blob/main/newsletter/source/example_1-1
 
 When you have read the information, you will print texts under the headings below. I want you to tell me if you feel you lack information to do a good job. 
 
